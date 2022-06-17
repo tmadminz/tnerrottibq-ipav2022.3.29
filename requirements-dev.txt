@@ -1,0 +1,9 @@
+-r requirements.txt
+black
+flake8
+codecov
+coveralls
+pytest
+pytest-cov
+sphinx
+sphinx_glpi_theme
